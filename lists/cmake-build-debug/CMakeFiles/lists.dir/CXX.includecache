@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hhy/c++_study/STL_container/lists/main.cpp
+iostream
+-
+list
+-
+algorithm
+-
+string
+-
+iterator
+-
+

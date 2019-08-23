@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hhy/c++_study/STL_container/vector/main.cpp
+memory
+-
+iostream
+-
+vector
+-
+array
+-
+algorithm
+-
+iterator
+-
+

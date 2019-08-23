@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/set_multi.dir/main.cpp.o  -o set_multi 

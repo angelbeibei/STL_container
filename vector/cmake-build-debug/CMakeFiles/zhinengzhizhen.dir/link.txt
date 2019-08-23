@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/zhinengzhizhen.dir/main.cpp.o  -o zhinengzhizhen 

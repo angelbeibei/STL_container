@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hhy/c++_study/STL_container/deques/main.cpp
+iostream
+-
+deque
+-
+string
+-
+algorithm
+-
+iterator
+-
+
