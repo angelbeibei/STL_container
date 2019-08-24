@@ -2,6 +2,8 @@
 #include <set>
 #include <algorithm>
 #include <iterator>
+#include <string.h>
+#include <string>
 using namespace std;
 
 namespace set01{
@@ -87,8 +89,52 @@ namespace set02{
     }
 
 }
+namespace set03 {
 
-int main(int argc,char* argv[]){
+    struct student {
+        char name[10];
+        int score;
+    };
+
+
+//自定义“小于”
+    bool comp(const student &a, const student &b) {
+        return a.score < b.score;
+    };
+
+    bool operator<(const student &stu1, const student &stu2) {
+        return stu1.score > stu2.score;
+    };
+
+    void func3() {
+        set<student> setStudents;
+
+        //int n = 5;
+        int n = 6;
+        while (n--) {
+            student oneStudent;
+            string name;
+            int score;
+            cin >> name >> score;
+            strcpy(oneStudent.name, name.c_str());
+            oneStudent.score = score;
+            setStudents.insert(oneStudent);
+        }
+        cout << "===========排序前================" << endl;
+        for (set<student>::iterator it = setStudents.begin(); it != setStudents.end(); it++) {
+            cout << "name: " << it->name << " score: " << it->score << endl;
+        }
+////         std::sort(setStudents.begin(), setStudents.end(), comp);
+//         cout << "===========排序后================" << endl;
+//         for (set<student>::iterator it = setStudents.begin(); it != setStudents.end(); it++){
+//             cout << "name: " << it->name << " score: " << it->score << endl;
+//         }
+    }
+}
+int main(int argc,char* argv[])
+{
     set01::func1();
     set02::func2();
+    set03::func3();  //使sets由大到小排
 }
+

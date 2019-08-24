@@ -6,17 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/hhy/c++_study/STL_container/set_multiset/main.cpp
+/home/hhy/c++_study/STL_container/map_multimap/main.cpp
 iostream
 -
-set
+string
+-
+map
 -
 algorithm
--
-iterator
--
-string.h
--
-string
 -
 

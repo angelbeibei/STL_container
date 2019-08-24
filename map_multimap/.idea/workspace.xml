@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="set_multi" targetName="set_multi" />
+      <config projectName="map_multimap" targetName="map_multimap" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,26 +11,27 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fa5847a-fa18-42cb-9f11-89d365f3b36c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../map_multimap/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../map_multimap/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/set_multi.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/set_multi" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/set_multi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/set_multi.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/set_multi.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    <list default="true" id="3036821d-c018-4204-8022-121cadbf9902" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../set_multiset/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/set_multi" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/set_multi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/set_multi.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/cmake-build-debug/set_multi.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../set_multiset/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../set_multiset/main.cpp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,41 +42,23 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FUSProjectUsageTrigger">
-    <session id="707522413">
+    <session id="-246094544">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cpp" value="1393" />
+          <entry key="cpp" value="1360" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="ObjectiveC" value="1393" />
-        </counts>
-      </usages-collector>
-    </session>
-    <session id="-407049091">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="cpp" value="87" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="ObjectiveC" value="87" />
+          <entry key="ObjectiveC" value="1360" />
         </counts>
       </usages-collector>
     </session>
@@ -90,10 +73,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            <state relative-caret-position="1164">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#1256#1273#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -129,23 +113,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="set_multi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="set_multi" type="462c0819:PsiDirectoryNode" />
+              <item name="map_multimap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="map_multimap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../set_multiset" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -161,20 +145,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.set_multi">
+  <component name="RunManager" selected="Application.map_multimap">
     <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="set_multi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="set_multi" TARGET_NAME="set_multi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="set_multi" RUN_TARGET_NAME="set_multi">
+    <configuration name="map_multimap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="map_multimap" TARGET_NAME="map_multimap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="map_multimap" RUN_TARGET_NAME="map_multimap">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.set_multi" />
+      <item itemvalue="Application.map_multimap" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -182,35 +166,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4fa5847a-fa18-42cb-9f11-89d365f3b36c" name="Default Changelist" comment="" />
-      <created>1566530140978</created>
+      <changelist id="3036821d-c018-4204-8022-121cadbf9902" name="Default Changelist" comment="" />
+      <created>1566613180943</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566530140978</updated>
-      <workItem from="1566530142226" duration="3765000" />
-      <workItem from="1566616456774" duration="610000" />
+      <updated>1566613180943</updated>
+      <workItem from="1566613185808" duration="2078000" />
+      <workItem from="1566623877800" duration="2647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4375000" />
+    <option name="totallyTimeSpent" value="4725000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1491" y="-4" width="1869" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="1490" y="-11" width="1871" height="1092" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18390805" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25232622" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3506764" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298647" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39958376" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.33090532" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3298647" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
@@ -233,10 +216,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        <state relative-caret-position="1164">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#1256#1273#0" expanded="true" />
           </folding>
         </state>
       </provider>

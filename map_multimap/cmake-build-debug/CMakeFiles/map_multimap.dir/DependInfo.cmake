@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hhy/c++_study/STL_container/set_multiset/main.cpp" "/home/hhy/c++_study/STL_container/set_multiset/cmake-build-debug/CMakeFiles/set_multi.dir/main.cpp.o"
+  "/home/hhy/c++_study/STL_container/map_multimap/main.cpp" "/home/hhy/c++_study/STL_container/map_multimap/cmake-build-debug/CMakeFiles/map_multimap.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

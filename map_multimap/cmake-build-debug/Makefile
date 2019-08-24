@@ -48,10 +48,10 @@ RM = /home/hhy/clion-2018.2.4/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hhy/c++_study/STL_container/set_multiset
+CMAKE_SOURCE_DIR = /home/hhy/c++_study/STL_container/map_multimap
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hhy/c++_study/STL_container/set_multiset/cmake-build-debug
+CMAKE_BINARY_DIR = /home/hhy/c++_study/STL_container/map_multimap/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hhy/c++_study/STL_container/set_multiset/cmake-build-debug/CMakeFiles /home/hhy/c++_study/STL_container/set_multiset/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hhy/c++_study/STL_container/map_multimap/cmake-build-debug/CMakeFiles /home/hhy/c++_study/STL_container/map_multimap/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hhy/c++_study/STL_container/set_multiset/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hhy/c++_study/STL_container/map_multimap/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named set_multi
+# Target rules for targets named map_multimap
 
 # Build rule for target.
-set_multi: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 set_multi
-.PHONY : set_multi
+map_multimap: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 map_multimap
+.PHONY : map_multimap
 
 # fast build rule for target.
-set_multi/fast:
-	$(MAKE) -f CMakeFiles/set_multi.dir/build.make CMakeFiles/set_multi.dir/build
-.PHONY : set_multi/fast
+map_multimap/fast:
+	$(MAKE) -f CMakeFiles/map_multimap.dir/build.make CMakeFiles/map_multimap.dir/build
+.PHONY : map_multimap/fast
 
 main.o: main.cpp.o
 
@@ -129,7 +129,7 @@ main.o: main.cpp.o
 
 # target to build an object file
 main.cpp.o:
-	$(MAKE) -f CMakeFiles/set_multi.dir/build.make CMakeFiles/set_multi.dir/main.cpp.o
+	$(MAKE) -f CMakeFiles/map_multimap.dir/build.make CMakeFiles/map_multimap.dir/main.cpp.o
 .PHONY : main.cpp.o
 
 main.i: main.cpp.i
@@ -138,7 +138,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) -f CMakeFiles/set_multi.dir/build.make CMakeFiles/set_multi.dir/main.cpp.i
+	$(MAKE) -f CMakeFiles/map_multimap.dir/build.make CMakeFiles/map_multimap.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -147,7 +147,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) -f CMakeFiles/set_multi.dir/build.make CMakeFiles/set_multi.dir/main.cpp.s
+	$(MAKE) -f CMakeFiles/map_multimap.dir/build.make CMakeFiles/map_multimap.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -158,7 +158,7 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... set_multi"
+	@echo "... map_multimap"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

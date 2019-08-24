@@ -1,4 +1,4 @@
-# Install script for directory: /home/hhy/c++_study/STL_container/set_multiset
+# Install script for directory: /home/hhy/c++_study/STL_container/map_multimap
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/hhy/c++_study/STL_container/set_multiset/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hhy/c++_study/STL_container/map_multimap/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
